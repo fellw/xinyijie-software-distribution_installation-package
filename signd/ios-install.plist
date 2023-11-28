@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cal.mpah.km</string>
+				<string>cal.xyj.km</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>秒批哎花</string>
+				<string>薪易借</string>
 			</dict>
 		</dict>
 	</array>
